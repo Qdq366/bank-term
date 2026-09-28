@@ -1,0 +1,25 @@
+:root {
+  /* 主色调：江水青绿 */
+  --color-primary: #4a9b8e;
+  --color-primary-light: #6fb3a8;
+  --color-primary-dark: #3a7d72;
+  /* 背景底色：暖砂米白 */
+  --color-bg: #f5f0e8;
+  --color-card: #ffffff;
+  /* 点缀高亮色：落日橘 */
+  --color-accent: #e08a5b;
+  --color-accent-light: rgba(224, 138, 91, 0.15);
+  /* 文字 */
+  --color-text: #33312e;
+  --color-text-secondary: #8a8580;
+  --color-border: #e8e2d8;
+
+  /* Element Plus 主题色覆写 */
+  --el-color-primary: #4a9b8e;
+  --el-color-primary-light-3: #6fb3a8;
+  --el-color-primary-light-5: #94c8bf;
+  --el-color-primary-light-7: #badcd6;
+  --el-color-primary-light-8: #cfe6e1;
+  --el-color-primary-light-9: #e5f2f0;
+  --el-color-primary-dark-2: #3a7d72;
+}
